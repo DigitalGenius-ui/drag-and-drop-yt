@@ -1,8 +1,21 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Drag and drop tutorial using React JS, Tailwindcss and Framer motion fir beginners 2024 
 
-Currently, two official plugins are available:
+<img src="./public/banner.png" alt="banner"/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Video Link
+
+[Youtub Link](https://youtu.be/L5YAexvZ1bc)
+
+## Discription
+
+This is a Youtube tutorial repo, when you will learn drag and drop in React JS, Framer Motion and TailwinCSS
+
+Developed By Milad Amiri 2024.
+Watch more videos from me [Milad Tech](https://www.youtube.com/@miladtech2844)
+
+## Technologies 
+
+- [React JS](https://reactjs.org/docs/getting-started.html)
+- [Tailwind css](https://tailwindcss.com/)
+- [framer-motion](https://www.framer.com/motion/)
